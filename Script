@@ -1,4 +1,4 @@
-Pipeline Script - Stage 1 (DAY 01)
+Pipeline Script - Stage 1 (DAY 02)
 -------------------------
 pipeline {
     agent any
